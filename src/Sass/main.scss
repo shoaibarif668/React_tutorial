@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: skyblue;
+}
+html{
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 62.5%;
+}
+
+.heading{
+
+    color: silver;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0px 2px 4px black;
+    margin: 70px 0px;
+
+}
+.head-img{
+    
+    display: flex;
+    justify-content: center;
+
+    img{
+       
+    }
+}

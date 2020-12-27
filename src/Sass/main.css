@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: skyblue;
+}
+
+html {
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 62.5%;
+}
+
+.heading {
+  color: silver;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px black;
+  margin: 70px 0px;
+}
+
+.head-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=main.css.map */
